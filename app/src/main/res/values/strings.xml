@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tutorial4</string>
+    <string name="UserName">username</string>
+    <string name="Password">password</string>
+    <string name="SelectAll">selectall</string>
+    <string name="ADD">add</string>
+    <string name="SIGNIN">signin</string>
+    <string name="DELETE">delete</string>
+    <string name="UPDATE">update</string>
+</resources>
